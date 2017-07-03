@@ -1,0 +1,1 @@
+<script>window.location.href="Admin/production/index.php";</script>

@@ -1,0 +1,5 @@
+[07-Oct-2016 08:42:51 America/Chicago] PHP Fatal error:  Cannot access protected property mysqli_sql_exception::$message in /home/hireoutsource/public_html/embido/Admin/production/code/config.php on line 11
+[07-Oct-2016 13:45:35 America/Chicago] PHP Fatal error:  Cannot access protected property mysqli_sql_exception::$message in /home/hireoutsource/public_html/embido/Admin/production/code/config.php on line 11
+[07-Oct-2016 13:49:21 America/Chicago] PHP Fatal error:  Cannot access protected property mysqli_sql_exception::$message in /home/hireoutsource/public_html/embido/Admin/production/code/config.php on line 11
+[07-Oct-2016 14:06:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/hireoutsource/public_html/embido/Admin/production/users.php on line 103
+[09-Oct-2016 16:09:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/hireoutsource/public_html/embido/Admin/production/users.php on line 103

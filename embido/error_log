@@ -1,0 +1,36 @@
+[07-Sep-2016 14:13:15 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'hireouts_embido'@'localhost' to database 'hireouts_emobido' in /home/hireoutsource/public_html/embido/config.php on line 35
+[07-Sep-2016 14:13:15 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hireoutsource/public_html/embido/config.php on line 37
+[10-Sep-2016 00:37:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/hireoutsource/public_html/embido/get_all_posts.php on line 13
+[10-Sep-2016 00:39:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE) in /home/hireoutsource/public_html/embido/get_all_posts.php on line 14
+[14-Sep-2016 06:38:31 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[14-Sep-2016 06:38:31 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKGOGlk' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[14-Sep-2016 06:53:04 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[14-Sep-2016 06:53:04 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpe0u9SL' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[15-Sep-2016 07:58:30 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[15-Sep-2016 07:58:30 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqu5U5m' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 05:43:22 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 05:43:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZySHbb' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 07:35:01 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 07:35:01 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpohevqe' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 07:42:18 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[17-Sep-2016 07:42:18 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoYayoP' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 00:17:33 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 00:17:33 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYuhzve' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 02:55:39 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 02:55:39 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpACednF' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 04:35:19 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 04:35:19 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbknAsO' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 05:16:04 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 05:16:04 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2MRMum' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 05:33:32 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 05:33:32 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEyfwOd' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 06:27:22 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[19-Sep-2016 06:27:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqKOF2F' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 05:44:22 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 05:44:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpagP05n' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 08:26:36 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 08:26:36 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeOImsI' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 08:29:18 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 08:29:18 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk0Dlm3' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 09:52:36 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/hireoutsource/public_html/embido/add_post.php on line 21
+[20-Sep-2016 09:52:36 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZlhrCi' to 'upload/' in /home/hireoutsource/public_html/embido/add_post.php on line 21
